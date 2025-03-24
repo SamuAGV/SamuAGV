@@ -11,6 +11,7 @@
 
 ## 📫 Contacto  
 - 📧 **Correo:** [samuelagv05@gmail.com](mailto:samuelagv05@gmail.com)  
-- 💼 **LinkedIn:** [Samuel Garduño](https://www.linkedin.com/in/samuel-gardu%C3%B1o-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 💼 **LinkedIn:** [Samuel Garduño](https://www.linkedin.com/in/samuel-gardu%C3%B1o-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 **Portafolio:** [Samuel Garduño] (https://portafolio-pi-ten-68.vercel.app/)
 
 ⚡ **Dato curioso:** Me gusta la automatización y la tecnología aplicada a la optimización de procesos.  
