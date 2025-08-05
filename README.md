@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Samuel Garduño (@SamuAGV)
+# 👋 ¡Hola! Soy Samuel Garduño
 
 💻 Desarrollador en formación apasionado por la tecnología y el desarrollo de software.  
 
