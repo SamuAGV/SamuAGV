@@ -1,25 +1,75 @@
 <div align="center">
   
-# 👨‍💻 Samuel Garduño
+  <!-- Header animado -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Samuel%20Gardu%C3%B1o&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20|%20Ingeniero%20de%20Software&descSize=18&descAlignY=55" width="100%"/>
 
-### Desarrollador Full Stack | Estudiante de Ingeniería en Desarrollo de Software
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Creando+soluciones+tecnol%C3%B3gicas+innovadoras;Full+Stack+Developer;React+Native+%7C+Node.js+%7C+Laravel;Apasionado+por+el+c%C3%B3digo+limpio" alt="Typing SVG" />
+  </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-gardu%C3%B1o-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-pi-ten-68.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelagv05@gmail.com)
-
+  <!-- Redes sociales -->
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/samuel-gardu%C3%B1o-">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portafolio-pi-ten-68.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:samuelagv05@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  
 </div>
 
 ---
 
-## 🎯 Sobre Mí
+<div align="center">
+  <img src="https://img.shields.io/badge/-%F0%9F%87%B2%F0%9F%87%BD%20Mexico-667eea?style=flat-square" alt="Mexico"/>
+  <img src="https://img.shields.io/badge/-Ing.%20Desarrollo%20de%20Software-764ba2?style=flat-square" alt="Educacion"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-667eea?style=flat-square" alt="Rol"/>
+</div>
 
-Estudiante de Ingeniería en Desarrollo de Software con pasión por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo full stack, combinando frontend moderno con backends robustos y bases de datos eficientes.
+<br/>
 
-- 🔭 Actualmente trabajando en proyectos con **React Native** y **Express.js**
-- 🌱 Explorando la integración de **hardware y software** en sistemas embebidos
-- 💡 Enfocado en la **automatización** y **optimización de procesos**
-- 🤝 Abierto a colaborar en proyectos de **desarrollo web** y **aplicaciones móviles**
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### Que hago
+
+Desarrollo soluciones **full stack** con enfoque en aplicaciones moviles y web. Me especializo en crear experiencias de usuario fluidas conectadas con backends robustos.
+
+### Stack principal
+
+**Frontend:** React Native, Next.js, Vite  
+**Backend:** Express.js, Laravel, Node.js  
+**Database:** MySQL  
+**Tools:** Git, VS Code, GitHub
+
+### En mi radar
+
+Actualmente explorando **Sistemas Embebidos**, **IoT** y **Cloud Computing** para expandir mis capacidades hacia el mundo del hardware.
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuAGV&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=a9b1d6" width="85%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+| Desarrollo con | Exploro | Enfoque | Abierto a |
+|:---:|:---:|:---:|:---:|
+| React Native + Express.js | Hardware + Software | Codigo limpio | Colaboraciones |
+
+</div>
+
+<br clear="both"/>
 
 ---
 
@@ -131,22 +181,6 @@ Estudiante de Ingeniería en Desarrollo de Software con pasión por crear soluci
 
 ---
 
-
-
-## 📫 Contacto
-
-¿Tienes algún proyecto interesante o quieres colaborar? ¡No dudes en contactarme!
-
-- 📧 **Email:** [samuelagv05@gmail.com](mailto:samuelagv05@gmail.com)
-- 💼 **LinkedIn:** [Samuel Garduño](https://www.linkedin.com/in/samuel-gardu%C3%B1o-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 🌐 **Portafolio:** [portafolio-pi-ten-68.vercel.app](https://portafolio-pi-ten-68.vercel.app/)
-
----
-
 <div align="center">
-  
-### ⚡ "La tecnología es mejor cuando acerca a las personas" - Matt Mullenweg
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_USUARIO)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
 </div>
