@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Header animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Samuel%20Gardu%C3%B1o&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20|%20Ingeniero%20de%20Software&descSize=18&descAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a8a,100:3b82f6&height=200&section=header&text=Samuel%20Gardu%C3%B1o&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20|%20Ingeniero%20de%20Software&descSize=18&descAlignY=55" width="100%"/>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Creando+soluciones+tecnol%C3%B3gicas+innovadoras;Full+Stack+Developer;React+Native+%7C+Node.js+%7C+Laravel;Apasionado+por+el+c%C3%B3digo+limpio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Creando+soluciones+tecnol%C3%B3gicas+innovadoras;Full+Stack+Developer;React+Native+%7C+Node.js+%7C+Laravel;" alt="Typing SVG" />
   </a>
 
   <!-- Redes sociales -->
@@ -27,7 +27,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-%F0%9F%87%B2%F0%9F%87%BD%20Mexico-667eea?style=flat-square" alt="Mexico"/>
-  <img src="https://img.shields.io/badge/-Ing.%20Desarrollo%20de%20Software-764ba2?style=flat-square" alt="Educacion"/>
+<img src="https://img.shields.io/badge/-Ing.%20Desarrollo%20de%20Software-1e3a8a?style=flat-square" alt="Educacion"/>
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-667eea?style=flat-square" alt="Rol"/>
 </div>
 
@@ -182,5 +182,5 @@ Actualmente explorando **Sistemas Embebidos**, **IoT** y **Cloud Computing** par
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1e3a8a,100:3b82f6&height=120&section=footer" width="100%"/>
 </div>
